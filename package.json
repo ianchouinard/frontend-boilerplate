@@ -1,0 +1,52 @@
+{
+  "name": "boilerplate",
+  "version": "1.0.0",
+  "description": "Front End Boilerplate",
+  "scripts": {
+    "test": "grunt"
+  },
+  "author": "Ian Chouinard",
+  "repository": "https://github.com/ianchouinard/frontend-boilerplate",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.0",
+    "ejs": "^2.6.1",
+    "express": "^4.16.0",
+    "grunt": "^1.0.1",
+    "grunt-autoprefixer": "^3.0.4",
+    "grunt-babel": "^6.0.0",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-cssmin": "^1.0.2",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-pug": "^1.0.0",
+    "grunt-contrib-uglify": "^2.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-express-server": "^0.5.3",
+    "grunt-open": "^0.2.3",
+    "grunt-rollup": "^6.0.0",
+    "grunt-sass": "^2.1.0",
+    "load-grunt-tasks": "^3.5.2"
+  },
+  "path": {
+    "src": {
+      "js": "dev/library/src/js",
+      "scss": "dev/library/src/scss",
+      "pug": "dev"
+    },
+    "dest": {
+      "js": "dev/library/js",
+      "css": "dev/library/css",
+      "pug": "dest"
+    }
+  },
+  "dependencies": {
+    "express-ejs-extend": "0.0.1",
+    "fs-extra": "^6.0.1",
+    "glob": "^7.1.2",
+    "ncp": "^2.0.0",
+    "node-sass": "^4.9.0"
+  }
+}

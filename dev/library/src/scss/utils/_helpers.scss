@@ -1,0 +1,17 @@
+/**
+* Pass px font size, outputs px and rem font size
+* @param {font-size} $size
+**/
+@mixin font-size($size) {
+    font-size: $size + px;
+    font-size: ($size/16) + rem;
+}
+
+/**
+* Pass px line height, outputs px and rem line height
+* @param {line-height} $size
+**/
+@mixin line-height($size) {
+    line-height: $size + px;
+    line-height: ($size/16) + rem;
+}

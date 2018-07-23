@@ -1,0 +1,13 @@
+<%if (!compile) { %>
+    <% extend('../MasterPages/master') %>
+<% } %>
+
+<div class="container">
+    <div class="jumbotron">
+        <h1>FE Boilerplate</h1>
+        <p>To make a new page, just create a new ejs file in /dev/App/Templates (See inner-page example)</p>
+        <a href="/inner-page" title="Go to inner page">Go to inner-page</a>
+    </div>
+
+    <% include ../UserControls/Modules/testModule %>   
+</div>
