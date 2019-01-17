@@ -1,16 +1,6 @@
-import { StCore } from './core/Core';
 import { Site } from './site/Site';
 
 const MainScripts = (() => {
-
-    /*
-        :: Initialize core st boilerplate modules
-    */
-    StCore.main({
-        initialize: {
-            TextResizer: true
-        }
-    });
     /*
         :: Initialize website/project specific modules
     */
