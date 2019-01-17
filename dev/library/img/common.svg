@@ -1,29 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-
     <symbol id="search" viewBox="0 0 22 22">
         <path d="M22,20.26l-6.5-6.49a8.65,8.65,0,1,0-1.73,1.73L20.26,22ZM.82,8.62a7.8,7.8,0,1,1,7.8,7.79A7.81,7.81,0,0,1,.82,8.62Zm0,0"/>
     </symbol>
-
-    <symbol id="chev-down" viewBox="0 0 11 6">
-        <path d="M0,1.26,1.42,0,5.5,3.48,9.58,0,11,1.26,5.5,6Z"/>
-    </symbol>
-
-    <svg id="chev-right" viewBox="0 0 7.41 13">
-        <path d="M104.28,7.14l-5.59,5.59a.91.91,0,0,1-1.28-1.28l4.94-4.95L97.41,1.55a.89.89,0,0,1,0-1.28.89.89,0,0,1,1.28,0l5.59,5.59a.89.89,0,0,1,0,1.28Z" transform="translate(-97.14 0)"/>
-    </svg>
-
-    <symbol id="calendar" viewBox="0 0 27 27">
-        <g id="Prices-Desktop-NEW"><g id="iconmonstr-calendar-4"><path id="Shape" d="M22.5,22.5H18V18h4.5ZM15.75,11.25h-4.5v4.5h4.5Zm6.75,0H18v4.5h4.5ZM9,18H4.5v4.5H9Zm6.75,0h-4.5v4.5h4.5ZM9,11.25H4.5v4.5H9Zm18-9V27H0V2.25H3.38V3.38a2.25,2.25,0,0,0,4.5,0V2.25H19.13V3.38a2.25,2.25,0,0,0,4.5,0V2.25ZM24.75,9H2.25V24.75h22.5ZM22.5,1.13a1.13,1.13,0,0,0-2.25,0V3.38a1.13,1.13,0,0,0,2.25,0ZM6.75,3.38a1.13,1.13,0,0,1-2.25,0V1.13a1.13,1.13,0,0,1,2.25,0Z"/></g></g>
-    </symbol>
-	
-    <symbol id="email-icon" viewBox="0 0 24 18">
-        <path d="M12,12.71,0,3H24ZM6.57,10.89,0,5.56v12.5Zm10.85,0L24,18.06V5.56Zm-1.55,1.26L12,15.29,8.13,12.15,0,21H24Z" transform="translate(0 -3)"/>
-    </symbol>
-
-    <symbol id="phone-icon" viewBox="0 0 19.12 22.09">
-        <g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1-2"><path d="M19.12,20l-4.77-6s-1.75,1.34-1.83,1.39c-2,1.5-8.18-6.35-6.26-7.93L8.1,6,3.36,0,1.49,1.43C.05,2.58-.26,4.49.2,6.69,1.62,13.5,10.38,23.1,15.77,22a3.69,3.69,0,0,0,1.48-.64Z" transform="translate(0)"/></g></g>
-    </symbol>
-
     <symbol id="facebook-icon" viewBox="0 0 24 24">
         <path d="M9 8h-3v4h3v12h5v-12h3.642l.358-4h-4v-1.667c0-.955.192-1.333 1.115-1.333h2.885v-5h-3.808c-3.596 0-5.192 1.583-5.192 4.615v3.385z"/>
     </symbol>
